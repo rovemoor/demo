@@ -1,4 +1,4 @@
-# Demo of some of some small projects/fucntions which can be shared publicly
+# Demo of some small projects
 
 ## Results
 	* housing_kaggle.py - Draft a script of applying machine learning models on predicting housing price using Kaggle data
